@@ -1,0 +1,1120 @@
+PROVIDED INPUT
+Welcome to the Wonderful Movie Theater Program!
+   Tonight's features are:
+        'Interstellar' and 'Maleficent' 
+Please specify the size of the movie theaters.
+Enter information about the Maleficent movie theater: 
+>>Enter number of rows: 3
+3
+>> Enter number of seats in a row: 4
+4
+>>Enter information about the Interstellar movie theater: 
+>>Enter number of rows: 2
+2
+>>Enter number of seats in a row: 5
+5
+>>Enter the price of a ticket: 8.75
+8.75
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by Free
+ Row 1 seat 2 is occupied by Free
+ Row 1 seat 3 is occupied by Free
+ Row 1 seat 4 is occupied by Free
+ Row 1 seat 5 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by Free
+ Row 1 seat 2 is occupied by Free
+ Row 1 seat 3 is occupied by Free
+ Row 1 seat 4 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 3 seat 1 is occupied by Free
+ Row 3 seat 2 is occupied by Free
+ Row 3 seat 3 is occupied by Free
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+0 tickets sold for the Interstellar movie.
+0 tickets sold for the Maleficent movie.
+Total earnings: 0.0
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Which line would you like to serve customers first? (express,reg1, reg2): 
+reg1
+reg1
+There are no customers waiting in any line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+There is no one in any of the theaters right now
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+No customers in the first line!
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: worf
+WORF
+>>Enter party size: 
+3
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer WORF is in first ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+The following customers are in the first line: 
+Customer WORF party of 3 for MALEFICENT movie.
+
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Serving customer WORF
+WORF, party of 3 has been seated in the MALEFICENT movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: will
+WILL
+>>Enter party size: 
+1
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer WILL is in first ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: geordi
+GEORDI
+>>Enter party size: 
+4
+>>Enter movie name: interstellar
+INTERSTELLAR
+>>Is a child 12 or younger in this party(Y/N)? y
+Y
+Customer GEORDI is in express ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: data
+DATA
+>>Enter party size: 
+4
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? y
+Y
+Customer DATA is in second ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: worf
+That name has already been used!
+Enter customer name: 
+data
+That name has already been used!
+Enter customer name: 
+jean-luc
+JEAN-LUC
+>>Enter party size: 
+3
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? y
+Y
+Customer JEAN-LUC is in express ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+The following customers are in the first line: 
+Customer WILL party of 1 for MALEFICENT movie.
+
+The following customers are in the second line: 
+Customer DATA party of 4 for MALEFICENT movie.
+
+The following customers are in the express line: 
+Customer GEORDI party of 4 for INTERSTELLAR movie.
+Customer JEAN-LUC party of 3 for MALEFICENT movie.
+
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by Free
+ Row 1 seat 2 is occupied by Free
+ Row 1 seat 3 is occupied by Free
+ Row 1 seat 4 is occupied by Free
+ Row 1 seat 5 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 3 seat 1 is occupied by Free
+ Row 3 seat 2 is occupied by Free
+ Row 3 seat 3 is occupied by Free
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+0 tickets sold for the Interstellar movie.
+3 tickets sold for the Maleficent movie.
+Total earnings: 26.25
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: beverly
+BEVERLY
+>>Enter party size: 
+1
+>>Enter movie name: interstellar
+INTERSTELLAR
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer BEVERLY is in first ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Serving customer DATA
+DATA, party of 4 has been seated in the MALEFICENT movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Serving customer GEORDI
+GEORDI, party of 4 has been seated in the INTERSTELLAR movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Serving customer WILL
+WILL, party of 1 has been seated in the MALEFICENT movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+n
+Customer JEAN-LUC has left the movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+y
+Serving customer BEVERLY
+BEVERLY, party of 1 has been seated in the Interstellar movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+No customers in the first line!
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by Free
+ Row 1 seat 3 is occupied by Free
+ Row 1 seat 4 is occupied by Free
+ Row 1 seat 5 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by DATA
+ Row 2 seat 1 is occupied by DATA
+ Row 2 seat 2 is occupied by DATA
+ Row 2 seat 3 is occupied by DATA
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by WILL
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+1 tickets sold for the Interstellar movie.
+12 tickets sold for the Maleficent movie.
+Total earnings: 113.75
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: deanna
+DEANNA
+>>Enter party size: 
+3
+>>Enter movie name: interstellar
+INTERSTELLAR
+>>Is a child 12 or younger in this party(Y/N)? y
+Y
+Customer DEANNA is in express ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+4
+Customer DEANNA has left the movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by Free
+ Row 1 seat 3 is occupied by Free
+ Row 1 seat 4 is occupied by Free
+ Row 1 seat 5 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by DATA
+ Row 2 seat 1 is occupied by DATA
+ Row 2 seat 2 is occupied by DATA
+ Row 2 seat 3 is occupied by DATA
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by WILL
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: wesley
+WESLEY
+>>Enter party size: 
+2
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer WESLEY is in first ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+The following customers are in the first line: 
+Customer WESLEY party of 2 for MALEFICENT movie.
+
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+y
+Serving customer WESLEY
+WESLEY, party of 2 has been seated in the Interstellar movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+What is the name of the customer that is going to leave?will
+Group has been found and has left the theater
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+No customers in the first line!
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by WESLEY
+ Row 1 seat 3 is occupied by WESLEY
+ Row 1 seat 4 is occupied by Free
+ Row 1 seat 5 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by DATA
+ Row 2 seat 1 is occupied by DATA
+ Row 2 seat 2 is occupied by DATA
+ Row 2 seat 3 is occupied by DATA
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+3 tickets sold for the Interstellar movie.
+12 tickets sold for the Maleficent movie.
+Total earnings: 131.25
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: guinan
+GUINAN
+>>Enter party size: 
+2
+>>Enter movie name: interstellar
+INTERSTELLAR
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer GUINAN is in first ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 1
+1
+>>Enter customer name: alexander
+ALEXANDER
+>>Enter party size: 
+2
+>>Enter movie name: maleficent
+MALEFICENT
+>>Is a child 12 or younger in this party(Y/N)? n
+N
+Customer ALEXANDER is in second ticket line.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+2
+Customer ALEXANDER has left the movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 2
+2
+Sorry this movie is sold out.
+Would you like to see the other movie(Y/N)?
+y
+Serving customer GUINAN
+GUINAN, party of 2 has been seated in the Interstellar movie theater.
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by DATA
+ Row 2 seat 1 is occupied by DATA
+ Row 2 seat 2 is occupied by DATA
+ Row 2 seat 3 is occupied by DATA
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by WESLEY
+ Row 1 seat 3 is occupied by WESLEY
+ Row 1 seat 4 is occupied by GUINAN
+ Row 1 seat 5 is occupied by GUINAN
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+No customers in the first line!
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+What is the name of the customer that is going to leave?deanna
+No group found
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+What is the name of the customer that is going to leave?data
+Group has been found and has left the theater
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+What is the name of the customer that is going to leave?will
+No group found
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 4
+4
+No customers in the first line!
+No customers in the second line!
+No customers in the express line!
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by WESLEY
+ Row 1 seat 3 is occupied by WESLEY
+ Row 1 seat 4 is occupied by GUINAN
+ Row 1 seat 5 is occupied by GUINAN
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+5 tickets sold for the Interstellar movie.
+12 tickets sold for the Maleficent movie.
+Total earnings: 148.75
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 3
+3
+What is the name of the customer that is going to leave?alexander
+No group found
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 5
+5
+The status of the Interstellar movie theater
+Row 1 seat 1 is occupied by BEVERLY
+ Row 1 seat 2 is occupied by WESLEY
+ Row 1 seat 3 is occupied by WESLEY
+ Row 1 seat 4 is occupied by GUINAN
+ Row 1 seat 5 is occupied by GUINAN
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by Free
+ Row 2 seat 5 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 6
+6
+The status of the Maleficent movie theater
+Row 1 seat 1 is occupied by WORF
+ Row 1 seat 2 is occupied by WORF
+ Row 1 seat 3 is occupied by WORF
+ Row 1 seat 4 is occupied by Free
+ Row 2 seat 1 is occupied by Free
+ Row 2 seat 2 is occupied by Free
+ Row 2 seat 3 is occupied by Free
+ Row 2 seat 4 is occupied by GEORDI
+ Row 3 seat 1 is occupied by GEORDI
+ Row 3 seat 2 is occupied by GEORDI
+ Row 3 seat 3 is occupied by GEORDI
+ Row 3 seat 4 is occupied by Free
+ 
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 7
+7
+5 tickets sold for the Interstellar movie.
+12 tickets sold for the Maleficent movie.
+Total earnings: 148.75
+Select an operation from the following menu: 
+     1. Customer(s) enter(s) movie theater
+     2. Customer buys ticket(s).
+     3. Customer(s) leave(s) the theater.
+     4. Display info about customers waiting for tickets.
+     5. Display seating chart for Interstellar movie theater.
+     6. Display seating chart for Maleficent movie theater.
+     7. Display number of tickets sold and total earnings
+     8. End the program.
+
+>>Make your menu selection now: 8
+8
